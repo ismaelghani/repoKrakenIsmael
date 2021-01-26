@@ -5,3 +5,4 @@ Ismael Ghani tomas
 (D) Modificació 02 Main Ismael
 (B) Modificació 01 Main ismael
 (C) benvinguda a la branca 02 Ismael
+(F) Afegim imatge a branca02
